@@ -1,20 +1,19 @@
 # Site settings
 title: Jordan Ellis-Lynch
 description: Portfolio of Jordan Ellis-Lynch from Melbourne, VIC Australia.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jordy-el.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: ""
+url: "https://jordy-el.github.io"
 
 # User settings
 username: Jordan Ellis-Lynch
-user_description: lorem ipsum
+user_description: Self-taught web developer specialising in Ruby on Rails and Javascript
 user_title: Ruby on Rails Developer
 email: jordan.ellis.lynch@gmail.com
 twitter_username: _jordy_el
 github_username:  jordy-el
-gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-105445610-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
