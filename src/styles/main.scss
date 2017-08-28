@@ -3,11 +3,11 @@ $sec: #4B5664;
 $purple: #54516A;
 $cut: 768px;
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 
 body {
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 @-webkit-keyframes pulse {
@@ -207,10 +207,12 @@ body {
   }
   li {
     color: #222;
-    font-size: 1.1rem;
+    font-size: 1.6rem;
+    margin-bottom: 0.2rem;
   }
   p {
     margin-right: 5px;
+    font-size: 1.9rem;
   }
 }
 
